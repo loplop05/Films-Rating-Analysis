@@ -4,13 +4,13 @@ An exploratory data analysis project investigating whether **Fandango inflates m
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project analyzes film ratings across multiple platforms to detect discrepancies and potential bias in how movies are scored. Using real-world scraped data from Fandango and aggregated scores from other major review sites, the analysis uncovers meaningful differences in how ratings are displayed vs. what users actually voted.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 Films-Rating-Analysis/
 │
@@ -42,35 +42,8 @@ Films-Rating-Analysis/
 
 ---
 
-## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|------|---------|
-| Python 3 | Core programming language |
-| Pandas | Data loading, cleaning, and manipulation |
-| Matplotlib | Plotting and visualization |
-| Seaborn | Statistical data visualization |
-| Jupyter Notebook | Interactive analysis environment |
-| NumPy | Numerical computations |
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.8+
-- Jupyter Notebook or JupyterLab
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/loplop05/Films-Rating-Analysis.git
-cd Films-Rating-Analysis
-
-# Install dependencies
-pip install pandas matplotlib seaborn numpy jupyter
-```
 
 ### Run the Notebook
 ```bash
@@ -87,25 +60,12 @@ jupyter notebook Solutions.ipynb
 
 ---
 
-## 📚 Background
-
-This project is inspired by the [FiveThirtyEight investigation](https://fivethirtyeight.com/features/fandango-movies-ratings/) by Walt Hickey, which found that Fandango's rating system was inflated, calling into question the integrity of review scores on platforms with commercial interests in ticket sales.
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
+ Author
 
 **loplop05**  
 [GitHub Profile](https://github.com/loplop05)
